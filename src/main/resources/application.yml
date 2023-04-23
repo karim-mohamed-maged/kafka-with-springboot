@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: kafka-with-springboot
+
+  kafka:
+    bootstrap-servers: localhost:9092
